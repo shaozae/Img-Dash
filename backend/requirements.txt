@@ -1,0 +1,11 @@
+Flask[async]
+flask-cors
+pymongo[srv]
+python-dotenv
+google-cloud-compute
+protobuf
+azure-identity
+azure-mgmt-compute
+boto3
+aiohttp
+waitress
